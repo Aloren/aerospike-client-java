@@ -15,6 +15,7 @@
     <module>servlets</module>
     <module>test</module>
     <module>extensions</module>
+    <module>aerospike-container</module>
   </modules>
 
   <properties>
